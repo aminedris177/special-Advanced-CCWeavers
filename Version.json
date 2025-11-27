@@ -1,17 +1,17 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "downloadUrl": "https://aminedris177.github.io/special-Advanced-CCWeavers/",
     "whitelist": [
     "000000000000000100A075212E6711D4",
     "CVLT616504FS120GGN",
       "002538D421812EBF",
-      "5CD2E49155970100",
+            "194601803008",
 "0025384641B45DED"
   ],
   "blacklist": [
     "9999-XXXX-YYYY-ZZZZ",
     "xxx002538Dsss42181sss2EBF",
-    "www002538D421812EBF",
+    "5CD2E49155970100",
     "ِA002538D421812EBF"
   ]
  }
